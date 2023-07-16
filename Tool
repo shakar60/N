@@ -1,4 +1,4 @@
-getgenv().keytoclick = "M"
+getgenv().keytoclick = "N"
 tool = Instance.new("Tool")
 tool.RequiresHandle = false
 tool.Name = keytoclick
